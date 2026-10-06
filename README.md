@@ -8,6 +8,6 @@ Currently learning **web development**, **UX writing**, and whatever else catche
 
 ### ୨୧ Currently learning
 
-`HTML` · `CSS` · `UX/UI Design` · `UX Writing`
+`HTML` · `CSS` · `UX/UI Design` · `JavaScript` · `UX Writing`
 
 ⌇ one project at a time · one thing at a time · figuring it out as I go ✦
