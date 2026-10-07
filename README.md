@@ -10,4 +10,4 @@ Currently learning **web development**, **UX writing**, and whatever else catche
 
 `HTML` · `CSS` · `UX/UI Design` · `JavaScript` · `UX Writing`
 
-⌇ one project at a time · one thing at a time · figuring it out as I go ✦
+⌇ one thing at a time · figuring it out as I go ✦
